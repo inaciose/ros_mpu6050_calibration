@@ -9,7 +9,7 @@ MPU-6050 calibration sketch, by Luis Ródenas, originally posted here: https://w
 
 Depends on the following software:
 - I2Cdevlib
-
+- bcm2835
 
 # Install I2Cdevlib (chrisspen fork recomended):
 
